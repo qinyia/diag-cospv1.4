@@ -1,0 +1,189 @@
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+(0)	--------------FC5_f19f19_update_cospv1.4.cam.h0.0001-01.nc---------------------
+(0)	-------always is zero-------datesec---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------ndbase---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------nsbase---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------nbsec---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------nscur---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-----difference between COSv1.3 and COSPv1.4---------CFAD_DBZE94_CS---------------------
+(0)	0		0.781021
+(0)	0		0.77707
+(0)	-0.436102		0.383602
+(0)	-----difference between COSv1.3 and COSPv1.4---------CFAD_SR532_CAL---------------------
+(0)	0		1
+(0)	0		1
+(0)	-0.0908602		0.0902419
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLDHGH_CAL---------------------
+(0)	0		98.9328
+(0)	0		98.9328
+(0)	-0.0967712		0.0967731
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLDLOW_CAL---------------------
+(0)	0		96.4866
+(0)	0		96.4866
+(0)	-1.1515		1.51127
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLDMED_CAL---------------------
+(0)	0		69.7258
+(0)	0		69.6936
+(0)	-1.16981		3.0562
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLDTOT_CAL---------------------
+(0)	0.158602		99.9274
+(0)	0.158602		99.9274
+(0)	-0.2715		0.088707
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLDTOT_CALCS---------------------
+(0)	2.72581		99.9812
+(0)	2.34677		99.9812
+(0)	-21.9597		14.5323
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLDTOT_CS---------------------
+(0)	0.0109677		0.999812
+(0)	0.00916667		0.999812
+(0)	-0.371613		0.145323
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLDTOT_CS2---------------------
+(0)	0.00607527		0.999758
+(0)	0.00188172		0.999758
+(0)	-0.197688		0.104946
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLD_CAL---------------------
+(0)	0		94.9919
+(0)	0		94.9919
+(0)	-1.84233		2.85591
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLD_CAL_NOTCS---------------------
+(0)	0		75.6317
+(0)	0		73.3575
+(0)	-8.67742		40.4946
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLHMODIS---------------------
+(0)	0		95.828
+(0)	0		96.4005
+(0)	-15.4677		1.5
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLIMODIS---------------------
+(0)	0		96.4113
+(0)	0		97.0215
+(0)	-12.5403		0.1371
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLLMODIS---------------------
+(0)	0		79.5753
+(0)	0		76.336
+(0)	-9.94892		8.44624
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLMMODIS---------------------
+(0)	0		73.3683
+(0)	0		74.2903
+(0)	-10.6747		11.6532
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLMODIS---------------------
+(0)	0		37.3468
+(0)	0		36.5457
+(0)	-26.6505		23.5968
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLTMODIS---------------------
+(0)	0		99.8306
+(0)	0.016129		99.8548
+(0)	-12.5296		1.50537
+(0)	-----difference between COSv1.3 and COSPv1.4---------CLWMODIS---------------------
+(0)	0		78.4247
+(0)	0		77.7607
+(0)	-4.48925		6.83334
+(0)	-------always is zero-------EMISCLD---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-----difference between COSv1.3 and COSPv1.4---------IWPMODIS---------------------
+(0)	0		180.339
+(0)	0		271.226
+(0)	-97.3867		0
+(0)	-----difference between COSv1.3 and COSPv1.4---------LWPMODIS---------------------
+(0)	0		23.8082
+(0)	0		24.7641
+(0)	-8.31393		0.614712
+(0)	-------always is zero-------ORO---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-----difference between COSv1.3 and COSPv1.4---------PCTMODIS---------------------
+(0)	0		7.52991e+06
+(0)	1019.64		7.36769e+06
+(0)	-906010		281179
+(0)	-----difference between COSv1.3 and COSPv1.4---------REFFCLIMODIS---------------------
+(0)	0		0.00638401
+(0)	0		0.00648937
+(0)	-0.000915116		6.58841e-06
+(0)	-----difference between COSv1.3 and COSPv1.4---------REFFCLWMODIS---------------------
+(0)	0		0.000854304
+(0)	0		0.00087961
+(0)	-0.000127685		6.71609e-05
+(0)	-----difference between COSv1.3 and COSPv1.4---------RFL_PARASOL---------------------
+(0)	0		0.541896
+(0)	0		0.566312
+(0)	-0.0253111		3.50028e-05
+(0)	-----difference between COSv1.3 and COSPv1.4---------TAUILOGMODIS---------------------
+(0)	-11.3649		107.275
+(0)	-10.5655		131.661
+(0)	-34.5746		2.31564
+(0)	-----difference between COSv1.3 and COSPv1.4---------TAUIMODIS---------------------
+(0)	0		5873.19
+(0)	0		8382.09
+(0)	-2719.97		0
+(0)	-----difference between COSv1.3 and COSPv1.4---------TAUTLOGMODIS---------------------
+(0)	-11.828		131.675
+(0)	-11.5955		145.222
+(0)	-31.9741		2.31564
+(0)	-----difference between COSv1.3 and COSPv1.4---------TAUTMODIS---------------------
+(0)	0		6709.46
+(0)	0.00499225		9177.65
+(0)	-2672.03		6.6617
+(0)	-----difference between COSv1.3 and COSPv1.4---------TAUWLOGMODIS---------------------
+(0)	-2.66931		104.562
+(0)	-2.27704		104.439
+(0)	-17.0213		7.04402
+(0)	-----difference between COSv1.3 and COSPv1.4---------TAUWMODIS---------------------
+(0)	0		4042.66
+(0)	0		4770
+(0)	-1809.55		216.104
+(0)	count=	30	count1=	7
+(0)	--------------FC5_f19f19_update_cospv1.4.cam.h1.0001-01-31-00000.nc---------------------
+(0)	-------always is zero-------datesec---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------ndbase---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------nsbase---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------nbsec---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------nscur---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-----difference between COSv1.3 and COSPv1.4---------CVCICE_COSP---------------------
+(0)	0		9.39253e-05
+(0)	0		0.00017396
+(0)	-0.00017396		8.87608e-05
+(0)	-------always is zero-------GRPL_LS_COSP---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	-------always is zero-------REFF_COSP_9---------------------
+(0)	0		0
+(0)	0		0
+(0)	0		0
+(0)	count=	1	count1=	7
